@@ -1,4 +1,4 @@
-![oilrig](./images/DSC00835_ps.JPG)
+![IMG](./images/Santa_Elena_Canyon.PNG)
 
 # CNN_based_Seismic_Fault_Prediction
 Using synthetic seismic data
