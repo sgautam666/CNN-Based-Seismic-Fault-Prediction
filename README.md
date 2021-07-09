@@ -7,8 +7,8 @@ Using synthetic seismic data
 
 ## Overview
 
-This is an ongoing project on building a deep learning learning models to accurately detect fault from seismic images. You can also find my medium blogpost posted in Towards Data Science for an early result of this project at below: 
-[blog](https://towardsdatascience.com/seismic-fault-prediction-with-deep-learning-2935704c9b48)
+This is an ongoing project on building a deep learning learning models to accurately detect fault from seismic images. You may also find my medium blogpost posted in Towards Data Science for an early result of this project at : 
+[Medium blog](https://towardsdatascience.com/seismic-fault-prediction-with-deep-learning-2935704c9b48)
 
 
 ## Introduction
@@ -17,11 +17,12 @@ Seismic images provides a structural snapshot of Earth's subsurface at a given t
 
 ## Data
 
-The synthetic data were taken from FORCE competition provided by XEEK.ai To get more information follow the link below:
-(https://xeek.ai/challenges/force-seismic/overview)
+The synthetic data were taken from FORCE competition provided by XEEK.ai.
+To get more information, follow the link at [XEEK](https://xeek.ai/challenges/force-seismic/overview)
+
 An example of a seismic images with fault overlay:
-![IMG](./images/seismic_acquisition.JPG)
-![IMG](./images/Fault_overlay.PNG)
+[IMG](./images/seismic_acquisition.JPG)
+[IMG](./images/Fault_overlay.PNG)
 
 
 ## Model
@@ -32,8 +33,8 @@ The current model uses a simple UNet framework using PyTorch implementation.
 
 
 ## Results
-![IMG](./images/Results.PNG)
-![IMG](./images/loss.PNG)
+[IMG](./images/Results.PNG)
+[IMG](./images/loss.PNG)
 
 
 ## For More Information
