@@ -21,20 +21,21 @@ The synthetic data were taken from FORCE competition provided by XEEK.ai.
 To get more information, follow the link at [XEEK](https://xeek.ai/challenges/force-seismic/overview)
 
 An example of a seismic images with fault overlay:
-[IMG](./images/seismic_acquisition.JPG)
-[IMG](./images/Fault_overlay.PNG)
+![IMG](./images/seismic_acquisition.JPG)
+![IMG](./images/Fault_overlay.PNG)
 
 
 ## Model
 
 The introductory data exploration will be provided in a separate notebook while the machine learning models will be provided under each type of the machine learning framework name.
-The current model uses a simple UNet framework using PyTorch implementation. 
-![IMG](./images/U-Net _framework.PNG)
+The current model uses a simple UNet framework using PyTorch implementation:
+
+![IMG](./images/U_Net _framework.PNG)
 
 
 ## Results
-[IMG](./images/Results.PNG)
-[IMG](./images/loss.PNG)
+![IMG](./images/Results.PNG)
+![IMG](./images/loss.PNG)
 
 
 ## For More Information
