@@ -7,7 +7,12 @@ Using synthetic seismic data
 
 ## Overview
 
-This is an ongoing project on building a deep learning learning models to accurately detect fault from seismic images. 
+This is an ongoing project on building a deep learning learning models to accurately detect fault from seismic images. You can also find my medium blogpost posted in Towards Data Science for an early result of this project at below: 
+[blog](https://towardsdatascience.com/seismic-fault-prediction-with-deep-learning-2935704c9b48)
+
+
+## Introduction
+Seismic images provides a structural snapshot of Earth's subsurface at a given time. Because of the many geological and tectonic processes, the Earth's layers are folded and faulted. A seismic fault is basically a crack in the rock layers along with the block of rocks/sediments moves. If the displacemnt is large enought, they are visible in the seismic data. These faults are of primary interest in hydrocarbon exploration because they can trap oil in places or may act as conduit for oil to escape. They also pose significant hazard in drilling process and therefore a correct identification and mapping of faults is critical. 
 
 
 ## Data
@@ -26,7 +31,8 @@ Future studies will be continued to improve the network and also to implement GA
 
 ## For More Information
 
-See the UNet model in the [Jupyter Notebook](./Pytorch_based_UNet_Model.ipynb)
+See the Data Exploration in the [Jupyter Notebook](./Data_exploration.ipynb)
+See the UNet model in the [Jupyter Notebook](./Pytorch_based_UNet_Model_v2.ipynb)
 
 
 
@@ -34,10 +40,9 @@ See the UNet model in the [Jupyter Notebook](./Pytorch_based_UNet_Model.ipynb)
 
 ```
 ├── Overview
-├── Data
 ├── images 
-├── notebook_versions tba
-├── Data_exploration_tba
-├── Pytorch_based_UNet_Model.ipynb
+├── notebook_versions
+├── Data_exploration
+├── Pytorch_based_UNet_Model_versions.ipynb
 └── README.md
 ```
