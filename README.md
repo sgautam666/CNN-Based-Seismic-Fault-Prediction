@@ -26,7 +26,8 @@ An example of a seismic images with fault overlay:
 ## Model
 
 The introductory data exploration will be provided in a separate notebook while the machine learning models will be provided under each type of the machine learning framework name.
-The current model uses a simple U-Net framework using PyTorch implementation: ![IMG](./images/U_Net _framework.png)
+The current model uses a simple U-Net framework using PyTorch implementation: 
+![IMG](https://github.com/sgautam666/CNN-Based-Seismic-Fault-Prediction/blob/main/images/U_Net%20_framework.png)
 
 
 ## Results
