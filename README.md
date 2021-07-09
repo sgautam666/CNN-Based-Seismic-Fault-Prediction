@@ -38,8 +38,8 @@ The example below are taken randomly from 3 different epochs. Within 20 epochs, 
 
 ## For More Information
 
-See the Data Exploration in the [Jupyter Notebook](./Data_exploration.ipynb)
-See the UNet model in the [Jupyter Notebook](./Pytorch_based_UNet_Model_v2.ipynb)
+See the Data Exploration in the [Data Exploration](./Data_exploration.ipynb)
+See the UNet model in the [U-Net_Model](./Pytorch_based_UNet_Model_v2.ipynb)
 
 
 
